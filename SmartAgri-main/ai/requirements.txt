@@ -1,0 +1,8 @@
+Flask
+joblib
+numpy
+onnxruntime
+pandas
+Pillow
+scikit-learn
+ultralytics==8.3.40
